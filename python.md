@@ -1,1 +1,2 @@
-tqdm - https://tqdm.github.io/
+# CLI enhanders
+tqdm - https://tqdm.github.io/ -  loops show a smart progress meter
