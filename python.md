@@ -4,5 +4,25 @@
 
 # Document manipulation
 - pikepdf - https://github.com/pikepdf/pikepdf - pikepdf is a Python library for reading and writing PDF files.
+- camelot - https://camelot-py.readthedocs.io/ - Camelot is a Python library that can help you extract tables from PDFs!
 
+
+
+# Better logging
+- loguru - https://github.com/Delgan/loguru - Loguru is a library which aims to bring enjoyable logging in Python
+
+# Notifications
+- apprise - https://github.com/caronc/apprise - Apprise allows you to send a notification to almost all of the most popular notification services
+
+# Script Configuration
+- parse_it - https://github.com/naorlivne/parse_it - A python library for parsing multiple types of config files, envvars and command line arguments that takes the headache out of setting app configurations.
+
+# Debugging
+- pysnooker - https://github.com/cool-RR/pysnooper - PySnooper is a poor man's debugger.
+
+# Code Formatting
+- black - https://github.com/psf/black - Black is the uncompromising Python code formatter.
+
+# APIs
+- molten - https://moltenframework.com/ - molten is a minimal, extensible, fast and productive framework for building HTTP APIs with Python.
 
