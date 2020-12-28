@@ -6,8 +6,6 @@
 - pikepdf - https://github.com/pikepdf/pikepdf - pikepdf is a Python library for reading and writing PDF files.
 - camelot - https://camelot-py.readthedocs.io/ - Camelot is a Python library that can help you extract tables from PDFs!
 
-
-
 # Better logging
 - loguru - https://github.com/Delgan/loguru - Loguru is a library which aims to bring enjoyable logging in Python
 
@@ -27,3 +25,6 @@
 # APIs
 - molten - https://moltenframework.com/ - molten is a minimal, extensible, fast and productive framework for building HTTP APIs with Python.
 
+# Code Documentation
+- sphinx - https://www.sphinx-doc.org/ - Sphinx is a documentation generator or a tool that translates a set of plain text source files into various output formats, automatically producing cross-references, indices, etc.
+- mkdocs - https://www.mkdocs.org/ - MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
