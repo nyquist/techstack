@@ -20,8 +20,9 @@
 # Debugging
 - pysnooker - https://github.com/cool-RR/pysnooper - PySnooper is a poor man's debugger.
 
-# Code Formatting
+# Code Formatting & Linters
 - black - https://github.com/psf/black - Black is the uncompromising Python code formatter.
+- bandit - https://github.com/PyCQA/bandit - Bandit is a tool designed to find common security issues in Python code
 
 # APIs
 - molten - https://moltenframework.com/ - molten is a minimal, extensible, fast and productive framework for building HTTP APIs with Python.
